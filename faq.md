@@ -1,3 +1,3 @@
 # FAQ
 
-TBD
+Check back on September 1st!
