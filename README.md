@@ -4,7 +4,7 @@ The configuration and execution phase of builds always take the longest. You may
 
 If you keep an eye on Gradle updates via the [Github Project Board](https://github.com/orgs/gradle/projects/32), you've probably noticed lots of work on the configuration cache. This feature is almost finished incubating -- expect to see a stable release soon.
 
-Interested in contributing? Now is the time! For the month of September, we are hosting the Configuration Cache Hackathon. Join us for the [kickoff event](https://www.youtube.com/watch?v=wHxoQeKddEg) on September 1 at 9am PDT / 1pm BRT / 4pm GMT.
+Interested in contributing? Now is the time! For the month of September, we are hosting the Configuration Cache Hackathon. Join us for the [kickoff event](https://www.youtube.com/watch?v=wHxoQeKddEg) on [September 1 at 9am PDT / 1pm BRT / 4pm GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Gradle+Configuration+Cache+Hackathon+&iso=20220901T09&p1=224).
 
 At the kickoff event, you'll learn how to contribute to Gradle Build Tool. Gradle is the build tool of choice for millions of developers around the globe. It's also the official build tool for Android applications.
 
