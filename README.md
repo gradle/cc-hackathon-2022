@@ -10,7 +10,7 @@ At the kickoff event, you'll learn how to contribute to Gradle Build Tool. Gradl
 
 During this month-long event, you can interact directly with Gradle Build Tool engineers when you contribute. The primary focus of this event will be to fix the Gradle documentation snippets so they become compatible with the configuration cache.
 
-We are preparing a [suggested workflow](workflow.md) as a simple guide for Hackathon participants, and a [FAQ](faq.md) to answer your most common questions.  
+We have provided a [suggested workflow](workflow.md) as a simple guide for Hackathon participants, and a [FAQ](faq.md) to answer your most common questions. 
 
 Join us on the [Gradle Community Slack](https://join.slack.com/t/gradle-community/shared_invite/zt-1bbiqbuxw-CgB0NeNaK_zuDMEa71A60Q) [#configuration-cache](https://app.slack.com/client/TA7ULVA9K/C013WEPGQF9) channel for support. 
 
@@ -18,6 +18,6 @@ We are also hosting a live Q&A session on September 8 for all Hackathon Particip
 
 Starting on September 1st, check out the [Hackathon board](https://github.com/orgs/gradle/projects/43/) to claim open issues to work on. Claim issues and get your PRs in fast. On September 30th, voting starts! 
 
-Everyone that has an accepted submission will get a configuration cache t-shirt. The Gradle Build Tool community will pick the best 3 PRs and those winners can choose a shirt with a commemorative design.
+Make sure you read the [rules](rules.md).  Everyone that has an accepted submission will get a configuration cache t-shirt. The Gradle Build Tool community will pick the best 3 PRs and those winners can choose a shirt with a commemorative design. 
 
-![Image](https://user-images.githubusercontent.com/51727488/185173218-18bf21f5-cc5f-4259-95d4-fc0a2ae65d00.png)
+![Configuration Cache Hackathon 2022](https://user-images.githubusercontent.com/51727488/187495364-d11ce58a-798e-468e-91de-8d18ad6c111f.png)
