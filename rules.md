@@ -9,7 +9,7 @@
 
 ## Working on Issues
 
-- Each contestant can only have one claimed issue at a time. 
+- Each contestant can only have one claimed issue at a time until that issue is submitted for review. 
 - There is a 72 hour limit for progress on an issue.  That is after claiming an issue some progress needs to happen within 72 hours or the issue will be moved back into [`Unclaimed Issues`](https://github.com/orgs/gradle/projects/43).  The PR does NOT need to be [`Ready for Review`](https://github.com/orgs/gradle/projects/43) just progress towards a solution.
 - If you need help or are stuck, add a comment in your PR and the Gradle team will move it to the [`Blocked - HELP`](https://github.com/orgs/gradle/projects/43) lane.
 
