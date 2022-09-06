@@ -58,6 +58,14 @@ We have some example PRs fixing common cases in some of the snippets.
 
 ## Write the solution and validate it locally
 
+### Guidelines for documentation snippets 
+
+1. Prefer implicit types, unless explicit types required
+1. Preserve existing semantics and style as much as possible
+1. Follow the Groovy/Kotlin DSL specific idioms as much as possible
+1. Favor Gradle API/idioms (when available) over native mechanisms/ad hoc style
+1. Favor fixing the public fragment(s) of the snippet vs fixing supporting code
+
 ### Re-run the tests
 
 If your fix is good, if you re-issue the `./gradlew ...` command again, the tests should now be passing.
