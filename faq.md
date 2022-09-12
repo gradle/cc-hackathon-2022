@@ -108,6 +108,8 @@ See the complete report at file:///…/task-with-arguments_kotlin_projectInfoTas
 
 Make sure your forked repository is in sync with the `master` branch of the Gradle repository, as support for running broken tests was implemented recently.
 
+Also, note that `-PrunBrokenConfigurationCacheDocsTests=true` will only run tests that are in the list of broken tests. That means if you remove the test you are fixing from the list, you must stop using that option when running the tests, or else they will be skipped, leading to a successful build result, even if the test is still broken.
+
 
 ## Fixing Configuration Cache issues
 
