@@ -78,7 +78,7 @@ Create a draft PR with your fix, ideally annotating it with any comments that ma
 
 Please add your full name and github handle to the list of contributors in the release notes as described [here](https://github.com/gradle/gradle/blob/master/subprojects/docs/src/docs/release/notes.md?plain=1#L6).
 
-Also, don't forget to remove the tests you fixed from the list of known broken tests (see [`testsToBeFixedForConfigurationCache`](https://github.com/gradle/gradle/blob/8dc15820bb8471dac12555738ca31d238314b451/subprojects/docs/build.gradle#L753) in the docs build.gradle file). Note that once you that, you need to drop the use of  `-PrunBrokenConfigurationCacheDocsTests=true` when running the `:docsTest` task as that option ensures only tests in the list of broken tests will be run, skipping any others.
+Also, don't forget to remove the tests you fixed from the list of known broken tests (see [`testsToBeFixedForConfigurationCache`](https://github.com/gradle/gradle/blob/8dc15820bb8471dac12555738ca31d238314b451/subprojects/docs/build.gradle#L753) in the docs build.gradle file). Note that once you do that, you need to sop using `-PrunBrokenConfigurationCacheDocsTests=true` when running the `:docsTest` task as that option ensures only tests in the list of broken tests will be run, skipping any others.
 
 For bonus points, consider generating the [documentation locally](faq.md#how-to-build-the-docs-locally-so-i-can-find-and-fix-consistency-issues-with-the-prose) and reviewing (and adjusting) the prose that surrounds the snippets you changed to ensure they remain consistent with your changes.
 
